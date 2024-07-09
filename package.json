@@ -46,3 +46,14 @@
     "vite": "^5.3.1"
   }
 }
+
+{
+  "http": {
+    "headers": {
+      "Access-Control-Allow-Origin": ["https://social-media-app-nbkq.onrender.com"],
+      "Access-Control-Allow-Methods": ["GET", "POST", "OPTIONS", "PUT", "DELETE"],
+      "Access-Control-Allow-Headers": ["Content-Type", "Authorization", "X-Appwrite-Project", "X-Appwrite-Key"],
+      "Access-Control-Allow-Credentials": true
+    }
+  }
+}
