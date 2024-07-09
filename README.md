@@ -1,12 +1,12 @@
 A Social Media Application
-Build this project step by step with our detailed tutorial on JavaScript Mastery YouTube. Join the JSM family!
-1. 📋 Table of Contents
-2. 🤖 Introduction
-3. ⚙️ Tech Stack
-4. 🔋 Features
-5. 🤸 Quick Start
-6. 🕸️ Snippets
-7. 🔗 Links
+
+ 📋 Table of Contents
+1. 🤖 Introduction
+2. ⚙️ Tech Stack
+3. 🔋 Features
+4. 🤸 Quick Start
+5. 🕸️ Snippets
+6. 🔗 Links
 
 
 
